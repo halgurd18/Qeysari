@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">قەیسەری</string>
+    <string name="title_home">گەڕان</string>
+    <string name="keyword">ناوی کاڵا، فرۆشگا، شوێن...!</string>
+    <string name="title_dashboard">نەخشە</string>
+    <string name="title_notifications">بەرهەمەکان</string>
+    <string name="title_activity_maps">نەخشە</string>
+    <string name="title_activity_map">قەیسەری</string>
+    <string name="title_activity_single">قەیسەری</string>
+    <string name="title_activity_search">قەیسەری</string>
+    <string name="title_activity_login">قەیسەری</string>
+    <string name="title_activity_product">قەیسەری</string>
+    <string name="action_settings">گۆڕانکاری</string>
+    <string name="price">نرخ</string>
+    <string name="title">ناونیشان</string>
+    <string name="addnewitem">زیادکردنی کاڵای نوێ</string>
+    <string name="touch">پەنچە لەسەر ئەم ئایکۆنەی خوارەوە داگرە لۆ زیادکردنی وێنەی کاڵا</string>
+    <string name="email">ئیمەیڵ</string>
+    <string name="shope">ناوی فرۆشگا</string>
+    <string name="passowrd">ووشەی تێپەر</string>
+    <string name="login">چوونەژوورەوە</string>
+    <string name="show_pwd">پێشاندانی ووشەی تێپەر</string>
+    <string name="hide_pwd">شاردنەوەی ووشەی تێپەر</string>
+    <string name="forgot"> لەبیرچوونەوەی ووشەی تێپەر؟</string>
+    <string name="closebutton">داخستن</string>
+    <string name="newUser">گەرتاکو ئێستا ئەندامنیت؟ خۆت تۆماربکە</string>
+    <string name="fullName">ناوی تەواو</string>
+    <string name="mobileNumber">ژمارەی مۆبایل</string>
+    <string name="location">شوێنی فرۆشگا هێشتا دیاری نەکراوە</string>
+    <string name="confirmPassword">دووبارە ووشەی تێپەر</string>
+    <string name="terms_conditions">بەداگرتنی ئەمە رازیت بە مەرجەکان!</string>
+    <string name="signUp">خۆتۆمارکردن</string>
+    <string name="already_user">گەر ئەژمارت هەیە؟ برۆ ژوورەوە!.</string>
+    <string name="registered_emailid">تکایە ئیمەیلی تۆمارکراو بنووسە:</string>
+    <string name="submit">ناردن</string>
+    <string name="back">گەڕانەوە</string>
+    <string name="upload">ناردن</string>
+    <string name="update">گۆرانکاری</string>
+    <string name="language">گۆرینی زمان</string>
+    <string name="about"> لەبارەی بەرنامەکە</string>
+    <string name="eng">ئینگلیزی</string>
+    <string name="kurd">کوردی</string>
+    <string name="cato">جۆری کاڵاکان</string>
+    <string name="shop_locate">دەستنیشانکردنی شوێنی فرۆشگا</string>
+
+    <string-array name="categorys">
+        <item>ئامیرە ئەلیکترۆنییەکان</item>
+        <item>کەلوپەلی پێویست</item>
+        <item>تەندروستی و ژوانی</item>
+        <item>جلوبەرگ</item>
+        <item>منداڵان ی یاری</item>
+        <item>کەلوپەلی ناوماڵ</item>
+    </string-array>
+    <string-array name="locations">
+        <item>سلێمانی</item>
+        <item>هەولێر</item>
+        <item>دهۆک</item>
+        <item>زاخۆ</item>
+        <item>کەرکوک</item>
+        <item>هەڵەبجە</item>
+        <item>کۆیە</item>
+        <item>ڕانیە</item>
+        <item>قەڵادزە</item>
+        <item>سۆران</item>
+    </string-array>
+</resources>
