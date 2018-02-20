@@ -94,15 +94,12 @@ public class SignUp_Fragment extends Fragment implements OnClickListener {
         switch (v.getId()) {
             case R.id.setLocationBtn:
 
-
-
-
                 // ActivityCompat.requestPermissions(getActivity().getApplicationContext(), new String[] {Manifest.permission.ACCESS_FINE_LOCATION}, 123);
 
                 GpsTracker gt = new GpsTracker(getActivity().getApplicationContext());
                 Location l = gt.getLocation();
                 if( l == null){
-                    Toast.makeText(getActivity().getApplicationContext(),"Unable to get Position , Check if gps is turned",Toast.LENGTH_SHORT).show();
+                    Toast.makeText(getActivity().getApplicationContext(),"Unable to get Position ,Try Again or Check if GPS is turned",Toast.LENGTH_SHORT).show();
                 }else {
                     double lat = l.getLatitude();
                     double lon = l.getLongitude();
@@ -110,8 +107,6 @@ public class SignUp_Fragment extends Fragment implements OnClickListener {
                     shop_Location=lat+"\n"+lon;
                     location.setText("Shop Location has been Set");
                 }
-
-
 
                 break;
 
